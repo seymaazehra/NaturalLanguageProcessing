@@ -1,2 +1,2 @@
-# VER-TABAN-
+
 MSSQL
